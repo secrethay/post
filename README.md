@@ -1,3 +1,3 @@
 ### shh
 
-![underskirt](underskirt.png)
+![Thumbnail of Underskirt](underskirt.png)
